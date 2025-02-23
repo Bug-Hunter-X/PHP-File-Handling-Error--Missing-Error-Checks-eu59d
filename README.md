@@ -1,0 +1,3 @@
+# PHP File Handling Error: Missing Error Checks
+
+This repository demonstrates a common error in PHP file handling: the lack of comprehensive error checking during file operations.  The `bug.php` file showcases code that opens a file but neglects to check for errors during file processing. The `bugSolution.php` provides a corrected version with proper error handling. This example highlights the importance of robust error handling to ensure the reliability and stability of your PHP applications.
